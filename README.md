@@ -1,5 +1,7 @@
 # Test
 
-[Test 2](Test2.c)
+[Test 2 name](Test2.c)
 
-[File 1](Folder/File1.c)
+[File 1 name](Folder/File1.c)
+
+[Folder name](Folder)
